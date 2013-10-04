@@ -1,4 +1,4 @@
-animal = 'cat'
+animal = 'dog'
 
 if (animal == 'dog')
     puts 'bark'
