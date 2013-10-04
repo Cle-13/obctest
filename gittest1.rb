@@ -1,7 +1,7 @@
-animal = 'cat'
+animal = 'dog'
 
 if (animal == 'dog')
-    puts 'barkk'
+    puts 'bark'
 elsif(animal == 'cat')
     puts 'meow'
 end
